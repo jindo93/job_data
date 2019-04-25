@@ -1,0 +1,137 @@
+FL, 1009, computer, programming, tech, software, data, information  job data saved!
+FL, 1014, computer, programming, tech, software, data, information  job data saved!
+FL, 1009, computer, programming, tech, software, data, information  job data saved!
+FL, 1010, computer, programming, tech, software, data, information  job data saved!
+FL, 1009, computer, programming, tech, software, data, information  job data saved!
+FL, 1007, computer, programming, tech, software, data, information  job data saved!
+FL, 1012, computer, programming, tech, software, data, information  job data saved!
+FL, 1015, computer, programming, tech, software, data, information  job data saved!
+FL, 1004, computer, programming, tech, software, data, information  job data saved!
+FL, 1013, computer, programming, tech, software, data, information  job data saved!
+FL, 1001, computer, programming, tech, software, data, information  job data saved!
+FL, 1012, computer, programming, tech, software, data, information  job data saved!
+FL, 1006, computer, programming, tech, software, data, information  job data saved!
+FL, 1007, computer, programming, tech, software, data, information  job data saved!
+FL, 1012, computer, programming, tech, software, data, information  job data saved!
+FL, 1004, computer, programming, tech, software, data, information  job data saved!
+FL, 1005, computer, programming, tech, software, data, information  job data saved!
+FL, 1011, computer, programming, tech, software, data, information  job data saved!
+FL, 1006, computer, programming, tech, software, data, information  job data saved!
+FL, 1010, computer, programming, tech, software, data, information  job data saved!
+FL, 1012, computer, programming, tech, software, data, information  job data saved!
+FL, 992, computer, programming, tech, software, data, information  job data saved!
+COMPLETED JOB SCRAPING: computer, programming, tech, software, data, information FL
+
+IN, 1004, computer, programming, tech, software, data, information  job data saved!
+IN, 1009, computer, programming, tech, software, data, information  job data saved!
+IN, 1012, computer, programming, tech, software, data, information  job data saved!
+IN, 1006, computer, programming, tech, software, data, information  job data saved!
+IN, 1013, computer, programming, tech, software, data, information  job data saved!
+IN, 1005, computer, programming, tech, software, data, information  job data saved!
+IN, 1004, computer, programming, tech, software, data, information  job data saved!
+IN, 1001, computer, programming, tech, software, data, information  job data saved!
+IN, 1006, computer, programming, tech, software, data, information  job data saved!
+IN, 1011, computer, programming, tech, software, data, information  job data saved!
+IN, 1009, computer, programming, tech, software, data, information  job data saved!
+IN, 1011, computer, programming, tech, software, data, information  job data saved!
+IN, 1005, computer, programming, tech, software, data, information  job data saved!
+IN, 1012, computer, programming, tech, software, data, information  job data saved!
+IN, 1003, computer, programming, tech, software, data, information  job data saved!
+IN, 839, computer, programming, tech, software, data, information  job data saved!
+COMPLETED JOB SCRAPING: computer, programming, tech, software, data, information IN
+
+AZ, 1003, computer, programming, tech, software, data, information  job data saved!
+AZ, 1009, computer, programming, tech, software, data, information  job data saved!
+AZ, 1005, computer, programming, tech, software, data, information  job data saved!
+AZ, 1004, computer, programming, tech, software, data, information  job data saved!
+AZ, 1008, computer, programming, tech, software, data, information  job data saved!
+AZ, 1011, computer, programming, tech, software, data, information  job data saved!
+AZ, 1004, computer, programming, tech, software, data, information  job data saved!
+AZ, 1005, computer, programming, tech, software, data, information  job data saved!
+AZ, 1004, computer, programming, tech, software, data, information  job data saved!
+AZ, 1007, computer, programming, tech, software, data, information  job data saved!
+AZ, 1006, computer, programming, tech, software, data, information  job data saved!
+AZ, 1007, computer, programming, tech, software, data, information  job data saved!
+AZ, 1002, computer, programming, tech, software, data, information  job data saved!
+AZ, 1006, computer, programming, tech, software, data, information  job data saved!
+AZ, 1013, computer, programming, tech, software, data, information  job data saved!
+AZ, 1006, computer, programming, tech, software, data, information  job data saved!
+AZ, 1008, computer, programming, tech, software, data, information  job data saved!
+AZ, 1006, computer, programming, tech, software, data, information  job data saved!
+AZ, 1001, computer, programming, tech, software, data, information  job data saved!
+AZ, 1012, computer, programming, tech, software, data, information  job data saved!
+AZ, 1006, computer, programming, tech, software, data, information  job data saved!
+AZ, 1009, computer, programming, tech, software, data, information  job data saved!
+AZ, 1011, computer, programming, tech, software, data, information  job data saved!
+AZ, 1003, computer, programming, tech, software, data, information  job data saved!
+AZ, 1006, computer, programming, tech, software, data, information  job data saved!
+AZ, 1004, computer, programming, tech, software, data, information  job data saved!
+AZ, 1014, computer, programming, tech, software, data, information  job data saved!
+AZ, 1011, computer, programming, tech, software, data, information  job data saved!
+AZ, 1006, computer, programming, tech, software, data, information  job data saved!
+AZ, 1004, computer, programming, tech, software, data, information  job data saved!
+AZ, 1006, computer, programming, tech, software, data, information  job data saved!
+AZ, 1013, computer, programming, tech, software, data, information  job data saved!
+AZ, 1003, computer, programming, tech, software, data, information  job data saved!
+AZ, 1004, computer, programming, tech, software, data, information  job data saved!
+AZ, 1013, computer, programming, tech, software, data, information  job data saved!
+AZ, 1011, computer, programming, tech, software, data, information  job data saved!
+AZ, 1009, computer, programming, tech, software, data, information  job data saved!
+AZ, 1010, computer, programming, tech, software, data, information  job data saved!
+AZ, 1006, computer, programming, tech, software, data, information  job data saved!
+AZ, 1003, computer, programming, tech, software, data, information  job data saved!
+AZ, 684, computer, programming, tech, software, data, information  job data saved!
+COMPLETED JOB SCRAPING: computer, programming, tech, software, data, information AZ
+
+LA, 1010, computer, programming, tech, software, data, information  job data saved!
+LA, 1004, computer, programming, tech, software, data, information  job data saved!
+LA, 1015, computer, programming, tech, software, data, information  job data saved!
+LA, 1015, computer, programming, tech, software, data, information  job data saved!
+LA, 1011, computer, programming, tech, software, data, information  job data saved!
+LA, 1005, computer, programming, tech, software, data, information  job data saved!
+LA, 1013, computer, programming, tech, software, data, information  job data saved!
+LA, 1013, computer, programming, tech, software, data, information  job data saved!
+LA, 1004, computer, programming, tech, software, data, information  job data saved!
+LA, 1013, computer, programming, tech, software, data, information  job data saved!
+LA, 1013, computer, programming, tech, software, data, information  job data saved!
+LA, 1007, computer, programming, tech, software, data, information  job data saved!
+LA, 1013, computer, programming, tech, software, data, information  job data saved!
+LA, 607, computer, programming, tech, software, data, information  job data saved!
+COMPLETED JOB SCRAPING: computer, programming, tech, software, data, information LA
+
+NV, 1003, computer, programming, tech, software, data, information  job data saved!
+NV, 1007, computer, programming, tech, software, data, information  job data saved!
+NV, 1008, computer, programming, tech, software, data, information  job data saved!
+NV, 1013, computer, programming, tech, software, data, information  job data saved!
+NV, 1014, computer, programming, tech, software, data, information  job data saved!
+NV, 1008, computer, programming, tech, software, data, information  job data saved!
+NV, 1004, computer, programming, tech, software, data, information  job data saved!
+NV, 1003, computer, programming, tech, software, data, information  job data saved!
+NV, 1004, computer, programming, tech, software, data, information  job data saved!
+NV, 1011, computer, programming, tech, software, data, information  job data saved!
+NV, 1006, computer, programming, tech, software, data, information  job data saved!
+NV, 1001, computer, programming, tech, software, data, information  job data saved!
+NV, 1009, computer, programming, tech, software, data, information  job data saved!
+NV, 1003, computer, programming, tech, software, data, information  job data saved!
+NV, 1003, computer, programming, tech, software, data, information  job data saved!
+NV, 1012, computer, programming, tech, software, data, information  job data saved!
+NV, 1004, computer, programming, tech, software, data, information  job data saved!
+NV, 521, computer, programming, tech, software, data, information  job data saved!
+COMPLETED JOB SCRAPING: computer, programming, tech, software, data, information NV
+
+DE, 1005, computer, programming, tech, software, data, information  job data saved!
+DE, 1005, computer, programming, tech, software, data, information  job data saved!
+DE, 1007, computer, programming, tech, software, data, information  job data saved!
+DE, 1005, computer, programming, tech, software, data, information  job data saved!
+COMPLETED JOB SCRAPING: computer, programming, tech, software, data, information DE
+
+DC, 1010, computer, programming, tech, software, data, information  job data saved!
+DC, 1012, computer, programming, tech, software, data, information  job data saved!
+DC, 1012, computer, programming, tech, software, data, information  job data saved!
+DC, 1013, computer, programming, tech, software, data, information  job data saved!
+DC, 1007, computer, programming, tech, software, data, information  job data saved!
+DC, 1001, computer, programming, tech, software, data, information  job data saved!
+DC, 1006, computer, programming, tech, software, data, information  job data saved!
+DC, 212, computer, programming, tech, software, data, information  job data saved!
+COMPLETED JOB SCRAPING: computer, programming, tech, software, data, information DC
+
