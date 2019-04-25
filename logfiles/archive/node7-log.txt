@@ -1,0 +1,81 @@
+VA, 1008, computer, programming, tech, software, data, information  job data saved!
+VA, 1005, computer, programming, tech, software, data, information  job data saved!
+VA, 1009, computer, programming, tech, software, data, information  job data saved!
+VA, 1006, computer, programming, tech, software, data, information  job data saved!
+VA, 1005, computer, programming, tech, software, data, information  job data saved!
+VA, 1011, computer, programming, tech, software, data, information  job data saved!
+VA, 1004, computer, programming, tech, software, data, information  job data saved!
+VA, 718, computer, programming, tech, software, data, information  job data saved!
+COMPLETED JOB SCRAPING: computer, programming, tech, software, data, information VA
+
+NC, 1008, computer, programming, tech, software, data, information  job data saved!
+NC, 1004, computer, programming, tech, software, data, information  job data saved!
+NC, 1005, computer, programming, tech, software, data, information  job data saved!
+NC, 1008, computer, programming, tech, software, data, information  job data saved!
+NC, 1012, computer, programming, tech, software, data, information  job data saved!
+NC, 1004, computer, programming, tech, software, data, information  job data saved!
+NC, 1001, computer, programming, tech, software, data, information  job data saved!
+NC, 1004, computer, programming, tech, software, data, information  job data saved!
+NC, 1002, computer, programming, tech, software, data, information  job data saved!
+NC, 1001, computer, programming, tech, software, data, information  job data saved!
+NC, 1003, computer, programming, tech, software, data, information  job data saved!
+NC, 1004, computer, programming, tech, software, data, information  job data saved!
+NC, 1009, computer, programming, tech, software, data, information  job data saved!
+NC, 1005, computer, programming, tech, software, data, information  job data saved!
+NC, 1006, computer, programming, tech, software, data, information  job data saved!
+NC, 1010, computer, programming, tech, software, data, information  job data saved!
+NC, 1005, computer, programming, tech, software, data, information  job data saved!
+NC, 1004, computer, programming, tech, software, data, information  job data saved!
+NC, 1008, computer, programming, tech, software, data, information  job data saved!
+NC, 1002, computer, programming, tech, software, data, information  job data saved!
+NC, 1003, computer, programming, tech, software, data, information  job data saved!
+NC, 1011, computer, programming, tech, software, data, information  job data saved!
+NC, 1007, computer, programming, tech, software, data, information  job data saved!
+NC, 1010, computer, programming, tech, software, data, information  job data saved!
+NC, 1004, computer, programming, tech, software, data, information  job data saved!
+NC, 1002, computer, programming, tech, software, data, information  job data saved!
+NC, 1007, computer, programming, tech, software, data, information  job data saved!
+NC, 68, computer, programming, tech, software, data, information  job data saved!
+COMPLETED JOB SCRAPING: computer, programming, tech, software, data, information NC
+
+WA, 1008, computer, programming, tech, software, data, information  job data saved!
+WA, 1012, computer, programming, tech, software, data, information  job data saved!
+WA, 1001, computer, programming, tech, software, data, information  job data saved!
+WA, 1014, computer, programming, tech, software, data, information  job data saved!
+WA, 1001, computer, programming, tech, software, data, information  job data saved!
+WA, 1012, computer, programming, tech, software, data, information  job data saved!
+WA, 319, computer, programming, tech, software, data, information  job data saved!
+COMPLETED JOB SCRAPING: computer, programming, tech, software, data, information WA
+
+KY, 1001, computer, programming, tech, software, data, information  job data saved!
+KY, 1005, computer, programming, tech, software, data, information  job data saved!
+KY, 1002, computer, programming, tech, software, data, information  job data saved!
+KY, 1011, computer, programming, tech, software, data, information  job data saved!
+Next Page Not Clicked!: Locator(by='xpath', value="//div[@class='pagination']/a") 
+
+KY, 593, computer, programming, tech, software, data, information  job data saved!
+COMPLETED JOB SCRAPING: computer, programming, tech, software, data, information KY
+
+AR, 1012, computer, programming, tech, software, data, information  job data saved!
+AR, 1009, computer, programming, tech, software, data, information  job data saved!
+AR, 1005, computer, programming, tech, software, data, information  job data saved!
+AR, 201, computer, programming, tech, software, data, information  job data saved!
+COMPLETED JOB SCRAPING: computer, programming, tech, software, data, information AR
+
+NM, 1002, computer, programming, tech, software, data, information  job data saved!
+NM, 1014, computer, programming, tech, software, data, information  job data saved!
+NM, 1005, computer, programming, tech, software, data, information  job data saved!
+NM, 1005, computer, programming, tech, software, data, information  job data saved!
+NM, 1006, computer, programming, tech, software, data, information  job data saved!
+NM, 1010, computer, programming, tech, software, data, information  job data saved!
+NM, 1011, computer, programming, tech, software, data, information  job data saved!
+NM, 1002, computer, programming, tech, software, data, information  job data saved!
+NM, 1003, computer, programming, tech, software, data, information  job data saved!
+NM, 1010, computer, programming, tech, software, data, information  job data saved!
+NM, 1006, computer, programming, tech, software, data, information  job data saved!
+NM, 1005, computer, programming, tech, software, data, information  job data saved!
+NM, 1009, computer, programming, tech, software, data, information  job data saved!
+NM, 1009, computer, programming, tech, software, data, information  job data saved!
+NM, 620, computer, programming, tech, software, data, information  job data saved!
+COMPLETED JOB SCRAPING: computer, programming, tech, software, data, information NM
+

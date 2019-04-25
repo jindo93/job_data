@@ -1,0 +1,75 @@
+VA, 1003, computer, tech, software, data, information, engineering  job data saved!
+VA, 1001, computer, tech, software, data, information, engineering  job data saved!
+VA, 1004, computer, tech, software, data, information, engineering  job data saved!
+VA, 1005, computer, tech, software, data, information, engineering  job data saved!
+VA, 1003, computer, tech, software, data, information, engineering  job data saved!
+VA, 1011, computer, tech, software, data, information, engineering  job data saved!
+VA, 1012, computer, tech, software, data, information, engineering  job data saved!
+VA, 106, computer, tech, software, data, information, engineering  job data saved!
+COMPLETED JOB SCRAPING: computer, tech, software, data, information, engineering VA
+
+NC, 1014, computer, tech, software, data, information, engineering  job data saved!
+NC, 1001, computer, tech, software, data, information, engineering  job data saved!
+NC, 1004, computer, tech, software, data, information, engineering  job data saved!
+NC, 1007, computer, tech, software, data, information, engineering  job data saved!
+NC, 1004, computer, tech, software, data, information, engineering  job data saved!
+NC, 1007, computer, tech, software, data, information, engineering  job data saved!
+NC, 1007, computer, tech, software, data, information, engineering  job data saved!
+NC, 1003, computer, tech, software, data, information, engineering  job data saved!
+NC, 1008, computer, tech, software, data, information, engineering  job data saved!
+NC, 1015, computer, tech, software, data, information, engineering  job data saved!
+NC, 1012, computer, tech, software, data, information, engineering  job data saved!
+NC, 1013, computer, tech, software, data, information, engineering  job data saved!
+NC, 1009, computer, tech, software, data, information, engineering  job data saved!
+NC, 1006, computer, tech, software, data, information, engineering  job data saved!
+NC, 1010, computer, tech, software, data, information, engineering  job data saved!
+NC, 1007, computer, tech, software, data, information, engineering  job data saved!
+NC, 1009, computer, tech, software, data, information, engineering  job data saved!
+NC, 1006, computer, tech, software, data, information, engineering  job data saved!
+NC, 1002, computer, tech, software, data, information, engineering  job data saved!
+NC, 1008, computer, tech, software, data, information, engineering  job data saved!
+NC, 65, computer, tech, software, data, information, engineering  job data saved!
+COMPLETED JOB SCRAPING: computer, tech, software, data, information, engineering NC
+
+NM, 19, computer, tech, software, data, information, engineering  job data saved!
+COMPLETED JOB SCRAPING: computer, tech, software, data, information, engineering NM
+
+AR, 1015, computer, tech, software, data, information, engineering  job data saved!
+AR, 1006, computer, tech, software, data, information, engineering  job data saved!
+AR, 1010, computer, tech, software, data, information, engineering  job data saved!
+AR, 1003, computer, tech, software, data, information, engineering  job data saved!
+AR, 902, computer, tech, software, data, information, engineering  job data saved!
+COMPLETED JOB SCRAPING: computer, tech, software, data, information, engineering AR
+
+KY, 1015, computer, tech, software, data, information, engineering  job data saved!
+KY, 1010, computer, tech, software, data, information, engineering  job data saved!
+KY, 1013, computer, tech, software, data, information, engineering  job data saved!
+KY, 1013, computer, tech, software, data, information, engineering  job data saved!
+KY, 1003, computer, tech, software, data, information, engineering  job data saved!
+KY, 1009, computer, tech, software, data, information, engineering  job data saved!
+KY, 263, computer, tech, software, data, information, engineering  job data saved!
+COMPLETED JOB SCRAPING: computer, tech, software, data, information, engineering KY
+
+WA, 1002, computer, tech, software, data, information, engineering  job data saved!
+WA, 1008, computer, tech, software, data, information, engineering  job data saved!
+WA, 1014, computer, tech, software, data, information, engineering  job data saved!
+WA, 1016, computer, tech, software, data, information, engineering  job data saved!
+WA, 1010, computer, tech, software, data, information, engineering  job data saved!
+WA, 1001, computer, tech, software, data, information, engineering  job data saved!
+WA, 1012, computer, tech, software, data, information, engineering  job data saved!
+WA, 1009, computer, tech, software, data, information, engineering  job data saved!
+WA, 1012, computer, tech, software, data, information, engineering  job data saved!
+WA, 1009, computer, tech, software, data, information, engineering  job data saved!
+WA, 1004, computer, tech, software, data, information, engineering  job data saved!
+WA, 1014, computer, tech, software, data, information, engineering  job data saved!
+WA, 1005, computer, tech, software, data, information, engineering  job data saved!
+WA, 1002, computer, tech, software, data, information, engineering  job data saved!
+WA, 1003, computer, tech, software, data, information, engineering  job data saved!
+WA, 1007, computer, tech, software, data, information, engineering  job data saved!
+WA, 1009, computer, tech, software, data, information, engineering  job data saved!
+WA, 1014, computer, tech, software, data, information, engineering  job data saved!
+WA, 1004, computer, tech, software, data, information, engineering  job data saved!
+WA, 1009, computer, tech, software, data, information, engineering  job data saved!
+WA, 241, computer, tech, software, data, information, engineering  job data saved!
+COMPLETED JOB SCRAPING: computer, tech, software, data, information, engineering WA
+
